@@ -1,0 +1,114 @@
+[
+  {
+    "id": "log-1794017451646-ehie",
+    "timestamp": "2026-11-07T02:10:51.646Z",
+    "step": "Alert Created",
+    "message": "New visitor alert configured: \"My Remote Job Alert\" (Daily Digest: ON -> visitor.emma@acme.org)",
+    "status": "info"
+  },
+  {
+    "id": "log-1794016580853-qa7g",
+    "timestamp": "2026-11-07T01:56:20.854Z",
+    "step": "Digest Dispatched",
+    "message": "Simulated delivery of \"Direct Company & Senior Software ($140k+)\" daily digest to cchungx5452@gmail.com (5 matches)",
+    "status": "success"
+  },
+  {
+    "id": "log-1794016561301-90jh",
+    "timestamp": "2026-11-07T01:56:01.301Z",
+    "step": "Email Digest Updated",
+    "message": "Alert \"No Degree Required High Compensation\" digest set to Active (cchungx5452@gmail.com)",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009676665-jp2j",
+    "timestamp": "2026-11-07T00:01:16.665Z",
+    "step": "Scan Complete",
+    "message": "Successfully crawled & verified 1 new remote listings. Referral links injected (ref=cchung_careers).",
+    "status": "success"
+  },
+  {
+    "id": "log-1794009676664-jfbg",
+    "timestamp": "2026-11-07T00:01:16.664Z",
+    "step": "Agent Heuristics",
+    "message": "Structuring job with local AI parsing engine...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009676664-0v5a",
+    "timestamp": "2026-11-07T00:01:16.664Z",
+    "step": "Gemini Notice",
+    "message": "AI response: Gemini API call timed out after 10s. Utilizing agent fallback rules.",
+    "status": "warning"
+  },
+  {
+    "id": "log-1794009666657-sba6",
+    "timestamp": "2026-11-07T00:01:06.657Z",
+    "step": "Gemini AI Agent",
+    "message": "Invoking Gemini 3.8 Flash for structured extraction & classification...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009666657-llgr",
+    "timestamp": "2026-11-07T00:01:06.657Z",
+    "step": "Web Fetch Fallback",
+    "message": "Direct fetch had issue (HTTP 404: Not Found). Using AI synthetic parser with source metadata.",
+    "status": "warning"
+  },
+  {
+    "id": "log-1794009666421-7w0e",
+    "timestamp": "2026-11-07T00:01:06.421Z",
+    "step": "Web Fetch",
+    "message": "Fetching contents from https://stripe.com/jobs/staff-eng...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009666420-u2m8",
+    "timestamp": "2026-11-07T00:01:06.420Z",
+    "step": "Crawler Triggered",
+    "message": "Initiating AI agent scan (Source: https://stripe.com/jobs/staff-eng)...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009642810-0tf7",
+    "timestamp": "2026-11-07T00:00:42.810Z",
+    "step": "Scan Complete",
+    "message": "Successfully crawled & verified 3 new remote listings. Referral links injected (ref=cchung_careers&utm_source=remotepulse).",
+    "status": "success"
+  },
+  {
+    "id": "log-1794009590772-sgdh",
+    "timestamp": "2026-11-06T23:59:50.772Z",
+    "step": "Gemini AI Agent",
+    "message": "Invoking Gemini 3.8 Flash for structured extraction & classification...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009590772-e8v1",
+    "timestamp": "2026-11-06T23:59:50.772Z",
+    "step": "API Ingestion",
+    "message": "Retrieved 4 raw remote postings from Arbeitnow API",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009590450-rcus",
+    "timestamp": "2026-11-06T23:59:50.450Z",
+    "step": "Automated Crawl",
+    "message": "Scanning live remote job boards (RemoteOK, Arbeitnow, WeWorkRemotely)...",
+    "status": "info"
+  },
+  {
+    "id": "log-1794009590450-4zym",
+    "timestamp": "2026-11-06T23:59:50.450Z",
+    "step": "Crawler Triggered",
+    "message": "Initiating AI agent scan (Source: Automated Feeds)...",
+    "status": "info"
+  },
+  {
+    "id": "log-init",
+    "timestamp": "2026-11-06T23:58:34.718Z",
+    "step": "System Initialization",
+    "message": "AI Crawler Agent online. 4 target remote job sources active with referral injection.",
+    "status": "info"
+  }
+]

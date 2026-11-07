@@ -1,0 +1,58 @@
+[
+  {
+    "id": "alert-1794017451646",
+    "name": "My Remote Job Alert",
+    "search": "",
+    "location": "All",
+    "minSalary": 0,
+    "education": "All",
+    "industry": "All Fields",
+    "createdAt": "2026-11-07T02:10:51.646Z",
+    "active": true,
+    "dailyEmailDigest": true,
+    "email": "visitor.emma@acme.org",
+    "digestDeliveryTime": "08:00 AM"
+  },
+  {
+    "id": "alert-1",
+    "name": "Direct Company & Senior Software ($140k+)",
+    "search": "",
+    "location": "Worldwide",
+    "minSalary": 140000,
+    "education": "All",
+    "industry": "Software Engineering",
+    "createdAt": "2026-11-06T09:00:00.000Z",
+    "active": true,
+    "dailyEmailDigest": true,
+    "email": "cchungx5452@gmail.com",
+    "digestDeliveryTime": "08:00 AM"
+  },
+  {
+    "id": "alert-2",
+    "name": "AI & Machine Learning Positions",
+    "search": "AI",
+    "location": "All",
+    "minSalary": 120000,
+    "education": "All",
+    "industry": "Data & AI",
+    "createdAt": "2026-11-05T14:00:00.000Z",
+    "active": true,
+    "dailyEmailDigest": true,
+    "email": "cchungx5452@gmail.com",
+    "digestDeliveryTime": "08:00 AM"
+  },
+  {
+    "id": "alert-3",
+    "name": "No Degree Required High Compensation",
+    "search": "",
+    "location": "All",
+    "minSalary": 100000,
+    "education": "No Degree Required",
+    "industry": "All Fields",
+    "createdAt": "2026-11-04T10:00:00.000Z",
+    "active": true,
+    "dailyEmailDigest": false,
+    "email": "cchungx5452@gmail.com",
+    "digestDeliveryTime": "08:00 AM"
+  }
+]
